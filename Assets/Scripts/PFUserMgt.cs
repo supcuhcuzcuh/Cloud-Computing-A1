@@ -1,15 +1,14 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using PlayFab;
 using PlayFab.ClientModels;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 public class PFUserMgt : MonoBehaviour
 {
     [SerializeField] TMP_Text msgbox;
     [SerializeField] TMP_InputField if_username, if_email, if_password, if_currentScore, if_displayName;
-
     void UpdateMsg(string msg) // to display in console and messagebox
     {
         Debug.Log(msg);

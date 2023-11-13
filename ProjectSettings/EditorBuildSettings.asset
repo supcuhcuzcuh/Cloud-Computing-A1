@@ -5,10 +5,31 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PostLogin.unity
     guid: 64a3a538dc223cd438f6332441433f57
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/A1 Scene/Menu.unity
+    guid: 51d5079a8903f4f37a90174bf793ca06
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/A1 Scene/Main.unity
+    guid: 0938f1be7c1804045bc2441b202785af
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/A1 Scene/Start.unity
+    guid: 8965ed87452c57a4bb0330f59836ca0a
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/A1 Scene/Login.unity
+    guid: 08a763631bcf9ad4c844f553cb232447
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/A1 Scene/LoginUsername.unity
+    guid: 2853fdff48fcbfe43a4b8d06a6848504
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/A1 Scene/ForgetPassword.unity
+    guid: 8378b5a80228cdd43a39d0648fa5bbaf
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/A1 Scene/Register.unity
+    guid: be4dd7506fc08e5418111e3ce465fb16
   m_configObjects: {}
